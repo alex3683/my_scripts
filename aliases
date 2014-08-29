@@ -1,0 +1,4 @@
+alias cdn=". cdn"
+alias l="ls -la --color"
+alias o="less"
+alias rebash=". ~/.bashrc"
